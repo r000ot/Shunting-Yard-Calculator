@@ -9,7 +9,7 @@ Scientific calculator for Android based on Shunting Yard, supporting basic scien
 - exponential operation
 - logarithm operation
 # Screeshot
-![](https://raw.githubusercontent.com/zdong1995/PicGo/master/img/Calculator.001.jpeg)
+![](https://raw.githubusercontent.com/zdong1995/PicGo/master/img/Calculator.001.JPEG)
 
 # Shunting Yard Algorithm
 The shunting yard algorithm is used to parse input in infix notation, while respecting the order of operations:
